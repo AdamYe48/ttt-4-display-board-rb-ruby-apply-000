@@ -10,12 +10,12 @@ def display_board(board)
   puts "   |   |   "
 end
 
-puts board = ["    ", "    ", "    ", "    ", " X ", "     ", "    ", "   ", "   "]
+#puts board = ["    ", "    ", "    ", "    ", " X ", "     ", "    ", "   ", "   "]
 
-def display_board(board)
-  puts "   |   |   "
-  puts "-----------"
-  puts "   | X |   "
-  puts "-----------"
-  puts "   |   |   "
-end
+#def display_board(board)
+ # puts "   |   |   "
+  #puts "-----------"
+  #puts "   | X |   "
+  #puts "-----------"
+  #puts "   |   |   "
+#end
